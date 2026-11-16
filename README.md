@@ -23,13 +23,23 @@ My background is in **Computer Engineering**, with an MSc focused on **AI Intell
 
 Outside the code editor, there's music, a different perspective from a drone, and the occasional robot trying very hard not to fall over. **Piano piano.** One experiment, one lesson, one commit at a time.
 
-## On the workbench: MediMemo
+## On the workbench
+
+### MediMemo
 
 **A happier medicine cabinet.** [MediMemo](https://github.com/edoardorex/medimemo) is a small web app that stores data locally for tracking medicine expiry dates, scanning package codes with a camera, and opening prefilled Google Calendar reminders.
 
 No signup. No backend. Your cabinet stays in your browser, and you review and save any Calendar event yourself. **Meno stress, more peace of mind.**
 
 [Try MediMemo →](https://edoardorex.github.io/medimemo/) · [Explore the code →](https://github.com/edoardorex/medimemo)
+
+### SugarLens
+
+**A little clarity in your basket.** [SugarLens](https://github.com/edoardorex/sugarlens) helps you read food labels, compare sugar density, and see carbohydrate and portion amounts. Scan a barcode, enter the nutrition label once, and keep your saved labels on your device for future scans.
+
+No signup. No product database. Works offline after the first visit. **Educational label reading only, not medical advice or a diabetes safety rating.**
+
+[Try SugarLens →](https://edoardorex.github.io/sugarlens/) · [Explore the code →](https://github.com/edoardorex/sugarlens)
 
 ## My projects: the full giro
 
@@ -39,6 +49,7 @@ A tour of my public repositories, from practical side projects to university exp
 
 | Project | What it's about |
 | --- | --- |
+| [sugarlens](https://github.com/edoardorex/sugarlens) | A food label helper with local barcode scanning, sugar density bands, carbohydrate context, and offline access. Educational use only, not medical advice. |
 | [medimemo](https://github.com/edoardorex/medimemo) | Medicine expiry tracking with local storage, barcode scanning on your device, and prefilled Google Calendar events. |
 | [LavaggioStrade](https://github.com/edoardorex/LavaggioStrade) | An Android prototype for shared street cleaning schedules, maps, and reminders to move your car. A very practical Italian problem. |
 | [ExifViewer](https://github.com/edoardorex/ExifViewer) | A Qt desktop app for browsing JPEGs and inspecting EXIF metadata, camera settings, and available GPS information. |
