@@ -108,4 +108,8 @@ A tour of my public repositories, from practical side projects to university exp
 
 An interesting idea, a shared technical rabbit hole, or just a friendly **ciao**: find me on [LinkedIn](https://www.linkedin.com/in/edoardo-rex/) or explore my [portfolio](https://edoardo.re/).
 
+### A note on my previous profile
+
+My earlier projects were originally published under [@edoardore](https://github.com/edoardore). That profile is no longer maintained; **[@edoardorex](https://github.com/edoardorex) is my current and active GitHub account**. The project forks here preserve the history of my earlier work, and all new work and updates belong here.
+
 <p align="center"><em>Grazie for stopping by. Alla prossima! 🇮🇹</em></p>
