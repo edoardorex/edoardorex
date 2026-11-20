@@ -25,6 +25,14 @@ Outside the code editor, there's music, a different perspective from a drone, an
 
 ## On the workbench
 
+### Local Lens
+
+**Less explaining. More making.** [Local Lens](https://github.com/edoardorex/local-lens) is a custom GitHub Copilot skill for visual frontend editing. Open your local app, pick an element, and describe what should change. Copilot gets the selection context and edits the actual source.
+
+A local-first browser bridge, no extension, and no runtime dependencies. **See it. Select it. Shape it.** The demo uses a fictional app and an original electronic soundtrack.
+
+[Watch the demo →](https://github.com/user-attachments/assets/89535835-fa4b-4310-b1fb-b7db7647b4cd) · [Install the skill →](https://github.com/edoardorex/local-lens#install) · [Explore the code →](https://github.com/edoardorex/local-lens)
+
 ### MediMemo
 
 **A happier medicine cabinet.** [MediMemo](https://github.com/edoardorex/medimemo) is a small web app that stores data locally for tracking medicine expiry dates, scanning package codes with a camera, and opening prefilled Google Calendar reminders.
@@ -44,6 +52,12 @@ No signup. No product database. Works offline after the first visit. **Education
 ## My projects: the full giro
 
 A tour of my public repositories, from practical side projects to university experiments. Some are forks of earlier repositories; their original history and credits remain in the linked projects. Coursework and research prototypes are presented as experiments, not finished products ready for production.
+
+### Developer tools & AI workflows
+
+| Project | What it's about |
+| --- | --- |
+| [local-lens](https://github.com/edoardorex/local-lens) | A custom Copilot skill that connects a local browser element picker to real frontend source edits, with a local CLI bridge and a music-backed demo. |
 
 ### Everyday tools & desktop apps
 
